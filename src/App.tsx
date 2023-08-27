@@ -91,7 +91,7 @@ export default function App() {
                     <li className='text-gray-800 py-1'>InVision</li>
                 </ul>
             </div>
-            <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white">
+            <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white flex-1">
                 <img src={code} width={100} height={100} className='mx-auto'/>
                 <h3 className="text-lg font-medium pt-7 pb-2  dark:bg-white">Coding</h3>
                 <p className="py-2  dark:bg-white">
