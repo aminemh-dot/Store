@@ -2,7 +2,6 @@ import './App.css'
 import {BsFillMoonStarsFill} from 'react-icons/bs'
 import {AiFillTwitterCircle, AiFillLinkedin,AiFillYoutube,AiFillFacebook} from 'react-icons/ai'
 
-import { icons } from 'react-icons'
 import userimg from './images/user.jpg'
 import design from './images/design.png'
 import consulting from './images/consulting.png'
